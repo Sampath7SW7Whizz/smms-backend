@@ -1,0 +1,17 @@
+{
+  "name": "SMMS Offline Suite",
+  "short_name": "SMMS",
+  "description": "Offline-first Super Market Management System served by Spring Boot.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f4fffd",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

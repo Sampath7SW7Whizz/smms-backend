@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Offline dashboard preview</title>
+  <desc id="desc">A dashboard layout with charts, cards, and a users panel representing the local SMMS app.</desc>
+  <rect width="1200" height="720" fill="#f8fafc" rx="36" />
+  <rect x="70" y="72" width="220" height="576" rx="28" fill="#134e4a" />
+  <rect x="330" y="72" width="800" height="82" rx="26" fill="#ffffff" />
+  <rect x="330" y="192" width="248" height="152" rx="24" fill="#dcfce7" />
+  <rect x="606" y="192" width="248" height="152" rx="24" fill="#dbeafe" />
+  <rect x="882" y="192" width="248" height="152" rx="24" fill="#fef3c7" />
+  <rect x="330" y="378" width="494" height="232" rx="26" fill="#ffffff" />
+  <rect x="852" y="378" width="278" height="232" rx="26" fill="#ffffff" />
+  <rect x="110" y="128" width="140" height="22" rx="11" fill="#d1fae5" />
+  <rect x="110" y="180" width="102" height="16" rx="8" fill="#99f6e4" />
+  <rect x="110" y="228" width="128" height="16" rx="8" fill="#99f6e4" />
+  <rect x="110" y="276" width="114" height="16" rx="8" fill="#99f6e4" />
+  <rect x="368" y="102" width="208" height="20" rx="10" fill="#0f172a" />
+  <rect x="368" y="126" width="278" height="12" rx="6" fill="#94a3b8" />
+  <g fill="#0f766e">
+    <rect x="364" y="226" width="94" height="16" rx="8" />
+    <rect x="640" y="226" width="94" height="16" rx="8" />
+    <rect x="916" y="226" width="94" height="16" rx="8" />
+  </g>
+  <g fill="#64748b">
+    <rect x="364" y="258" width="124" height="12" rx="6" />
+    <rect x="640" y="258" width="124" height="12" rx="6" />
+    <rect x="916" y="258" width="124" height="12" rx="6" />
+  </g>
+  <path d="M382 558c54-88 95-132 126-132 48 0 66 82 116 82 39 0 68-34 94-91" fill="none" stroke="#0f766e" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/>
+  <g fill="#e2e8f0">
+    <rect x="886" y="420" width="208" height="46" rx="18" />
+    <rect x="886" y="482" width="208" height="46" rx="18" />
+    <rect x="886" y="544" width="208" height="46" rx="18" />
+  </g>
+  <text x="336" y="670" fill="#0f766e" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Spring Boot serves the built React dashboard directly on localhost:8080</text>
+</svg>

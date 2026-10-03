@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Offline SMMS hero illustration</title>
+  <desc id="desc">A local-first retail dashboard illustration for the supermarket management system.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#d1fae5" />
+      <stop offset="50%" stop-color="#ecfeff" />
+      <stop offset="100%" stop-color="#f0fdf4" />
+    </linearGradient>
+    <linearGradient id="screen" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#134e4a" />
+      <stop offset="100%" stop-color="#0f766e" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" fill="url(#bg)" rx="36" />
+  <circle cx="184" cy="124" r="90" fill="#a7f3d0" opacity=".75" />
+  <circle cx="1020" cy="132" r="120" fill="#99f6e4" opacity=".6" />
+  <rect x="120" y="150" width="960" height="430" rx="28" fill="#ffffff" />
+  <rect x="170" y="198" width="860" height="334" rx="24" fill="url(#screen)" />
+  <rect x="205" y="232" width="214" height="98" rx="18" fill="#ffffff" opacity=".96" />
+  <rect x="445" y="232" width="214" height="98" rx="18" fill="#ccfbf1" />
+  <rect x="685" y="232" width="300" height="98" rx="18" fill="#dbeafe" />
+  <rect x="205" y="362" width="390" height="128" rx="18" fill="#f8fafc" />
+  <rect x="623" y="362" width="362" height="128" rx="18" fill="#f0fdf4" />
+  <path d="M244 448c38-56 72-84 102-84 42 0 55 55 94 55 28 0 52-20 76-51 24 17 44 43 60 80" fill="none" stroke="#14b8a6" stroke-linecap="round" stroke-linejoin="round" stroke-width="14"/>
+  <rect x="246" y="255" width="90" height="18" rx="9" fill="#0f766e" />
+  <rect x="246" y="285" width="124" height="14" rx="7" fill="#94a3b8" />
+  <rect x="480" y="255" width="92" height="18" rx="9" fill="#0f766e" />
+  <rect x="480" y="285" width="106" height="14" rx="7" fill="#94a3b8" />
+  <rect x="720" y="258" width="126" height="18" rx="9" fill="#1d4ed8" />
+  <rect x="720" y="289" width="202" height="14" rx="7" fill="#94a3b8" />
+  <circle cx="746" cy="426" r="36" fill="#10b981" opacity=".16" />
+  <path d="M746 392v34l20 14" fill="none" stroke="#0f766e" stroke-linecap="round" stroke-width="10" />
+  <path d="M170 618h860" stroke="#94a3b8" stroke-linecap="round" stroke-width="18" />
+  <text x="170" y="102" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700">SMMS</text>
+  <text x="170" y="638" fill="#0f766e" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Runs locally. Serves React and APIs from one Spring Boot JAR.</text>
+</svg>
